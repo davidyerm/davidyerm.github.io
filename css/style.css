@@ -1,7 +1,5 @@
 body {
     font-family: Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
-    margin: 20px;
-    padding: 0;
 }
 
 ul {
@@ -35,7 +33,7 @@ li a {
     width: 50px;
 }
 
-.section{
-    max-width: 500px;
-    margin: auto;
+section{
+    margin-left: 25%;
+    padding: 2em;
 }
