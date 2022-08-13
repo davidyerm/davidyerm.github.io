@@ -1,3 +1,5 @@
-# davidy.dev
-## Welcome
-- 
+---
+layout: default
+title: davidy.dev
+---
+Welcome
