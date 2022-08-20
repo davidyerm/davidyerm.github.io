@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python | davidy.dev
+title: Python
 ---
 # Python
 ## Read More:

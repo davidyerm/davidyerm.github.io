@@ -1,7 +1,7 @@
 ---
 layout: default
-title: C++
+title: About
 ---
-# C++
+# About
 ## Read More:
 * Coming Soon!

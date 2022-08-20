@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DevOps | davidy.dev
+title: DevOps
 ---
 # DevOps
 ## Read More:
