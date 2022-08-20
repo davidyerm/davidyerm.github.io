@@ -4,4 +4,5 @@ title: davidy.dev
 description: davidy.dev
 email: hello@davidy.dev
 twitter: https://twitter.com/dvyrm
-github.repository_name: davidy.dev
+github:
+  repository_name: davidy.dev
