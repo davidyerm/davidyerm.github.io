@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Management | davidy.dev
+title: Management
 ---
-# Management
 ## Read More:
 * Coming Soon!

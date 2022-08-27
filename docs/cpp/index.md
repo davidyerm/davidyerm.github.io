@@ -2,6 +2,5 @@
 layout: default
 title: C++
 ---
-# C++
 ## Read More:
 * Coming Soon!
