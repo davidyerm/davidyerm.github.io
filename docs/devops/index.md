@@ -2,5 +2,14 @@
 layout: default
 title: DevOps
 ---
-## Read More:
-* Coming Soon!
+# Tools
+* YAML
+* Docker
+* Jfrog Conan
+* CI/CD Tools
+* Puppet
+* Promadeus
+
+# Concepts
+* API Analytics
+* Shift Left

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: davidy.dev
-description: David Yermiyahu Development Website
+description: Development & Management Resources
 ---
 Welcome
 
