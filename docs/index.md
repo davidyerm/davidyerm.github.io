@@ -1,6 +1,7 @@
 ---
 layout: default
 title: davidy.dev
+description: David Yermiyahu Development Website
 ---
 Welcome
 
