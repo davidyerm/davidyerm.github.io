@@ -45,4 +45,4 @@ title: DevOps
 * [dagger.io - Develop Your CI/CD Pipelines as Code and Run Them Anywhere](https://dagger.io/)
 * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
 * [Don’t Have a DevOps Team? This Is Why You’re Wrong](https://dzone.com/articles/dont-have-a-devops-team-this-is-why-youre-wrong)
-* [https://devops.com/shift-left-right-or-wrong/](https://devops.com/shift-left-right-or-wrong/)
+* [Shift Left: Right or Wrong?](https://devops.com/shift-left-right-or-wrong/)
