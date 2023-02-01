@@ -22,7 +22,7 @@ title: DevOps
 * [How to use GitOps to automate Terraform](https://opensource.com/article/23/1/automate-terraform-gitops)
 * [6 Ways To Empower Developers and Increase Productivity](https://devops.com/6-ways-to-empower-developers-and-increase-productivity/)
 * [Things I want as SRE/DevOps from Devs](https://oschvr.com/posts/what-id-like-as-sre/)
-* [DevOps With Python | Real Python](https://realpython.com/learning-paths/python-devops/?s=09)
+* [DevOps With Python](https://realpython.com/learning-paths/python-devops/?s=09)
 * [Understand how to orchestrate Windows containers with Kubernetes](https://www.techtarget.com/searchitoperations/tip/Understand-how-to-orchestrate-Windows-containers-with-Kubernetes)
 * [The Evolution of DevOps: Where It Began and What's Ahead](https://dzone.com/articles/the-evolution-of-devops-where-it-began-and-whats-a)
 * [DevOps and Continuous Integration challenges in C/C++ projects](https://blog.conan.io/2017/03/14/Devops-and-Continouous-Integration-Challenges-in-C-C++-Projects.html)
